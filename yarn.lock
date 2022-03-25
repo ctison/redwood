@@ -5870,7 +5870,7 @@ __metadata:
     param-case: 3.0.4
     pascalcase: 1.0.0
     pluralize: 8.0.0
-    prettier: 2.5.1
+    prettier: 2.6.1
     prisma: 3.11.1
     prompts: 2.4.2
     rimraf: 3.0.2
@@ -5906,7 +5906,7 @@ __metadata:
     fs-extra: 10.0.1
     jest: 27.5.1
     jscodeshift: 0.13.1
-    prettier: 2.5.1
+    prettier: 2.6.1
     tasuku: 1.0.2
     tempy: 1.0.1
     toml: 3.0.0
@@ -6012,7 +6012,7 @@ __metadata:
     eslint-plugin-react: 7.29.4
     eslint-plugin-react-hooks: 4.3.0
     jest: 27.5.1
-    prettier: 2.5.1
+    prettier: 2.6.1
     typescript: 4.6.2
   languageName: unknown
   linkType: soft
@@ -6121,7 +6121,7 @@ __metadata:
     graphql-tag: 2.12.6
     jest: 27.5.1
     kill-port: 1.6.1
-    prettier: 2.5.1
+    prettier: 2.6.1
     rimraf: 3.0.2
     string-env-interpolation: 1.0.1
     systeminformation: 5.11.9
@@ -24280,12 +24280,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.5.1":
-  version: 2.5.1
-  resolution: "prettier@npm:2.5.1"
+"prettier@npm:2.6.1, prettier@npm:^2.0.1, prettier@npm:^2.2.1":
+  version: 2.6.1
+  resolution: "prettier@npm:2.6.1"
   bin:
     prettier: bin-prettier.js
-  checksum: fa9750193b3fcdb4bd54ba4e57996d335de4cd492d277539b6ffb6d146c8b6d3c3dc264b75021914c99c91574643637f607da08ef4588ef30a7b78d14326f470
+  checksum: f2ff00a8e075089fd07f5b45af29f26cd280c01f5bb2973369b9e1326588ec0d9a35c81f37a7e1e780f418d3e5cbf6d586b41a161d06eeb6fa76e554c2ba7f4b
   languageName: node
   linkType: hard
 
@@ -24295,15 +24295,6 @@ __metadata:
   bin:
     prettier: bin-prettier.js
   checksum: b9f434af2f25a37aad0b133894827e980885eb8bf317444c9dde0401ed2c7f463f9996d691f5ee5a0a4450ab46a894cd6557516b561e2522821522ce1f4c6668
-  languageName: node
-  linkType: hard
-
-"prettier@npm:^2.0.1, prettier@npm:^2.2.1":
-  version: 2.6.0
-  resolution: "prettier@npm:2.6.0"
-  bin:
-    prettier: bin-prettier.js
-  checksum: aa29412e52be673e1e63ceb17eb6bbbec5a2d6fd126f66c31a935a2d35463f8ba28bc54b20cb1e89712cb3928ef60d27f53174e99a5222fbd414ba654929d693
   languageName: node
   linkType: hard
 
